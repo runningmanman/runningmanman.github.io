@@ -1,0 +1,13 @@
+.service-img {
+  border-radius: 15px;
+  max-width: 180px;
+}
+
+.ner-hr {
+  border-color: #742647 !important;
+}
+
+.ner-icon {
+  color: #742647 !important;
+}
+

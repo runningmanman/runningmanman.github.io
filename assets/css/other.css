@@ -1,0 +1,36 @@
+.ner-pic {
+  background-color: rgba(116,38,71,0.8) !important;
+}
+
+hr {
+  max-width: 50px;
+  border-width: 3px;
+  border-color: #1d809f;
+}
+
+.bg-primary {
+  background-color: #1d809f!important;
+}
+
+.portfolio-box .portfolio-box-caption {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  opacity: 0;
+  color: #fff;
+  background: rgba(255,201,61,0.64);
+  transition: all .2s;
+}
+
+.text-primary {
+  color: #1d809f!important;
+}
+
+a:hover {
+  color: #1d809f;
+  text-decoration: underline;
+}
+
